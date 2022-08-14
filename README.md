@@ -1,4 +1,6 @@
-### Olá! Eu sou o Jhonny Brustolin
+### Olá! Eu sou o Jhonny Brustolin!
+### Apaixonado por aprendizado e por tecnologia.
+### Atualmente trabalhando como Analista de Sistemas na Telefônica Brasil (VIVO)
 
 <div align="center">
   <a href="https://github.com/jhonnydevbr">
